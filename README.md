@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victoria, a System Engineer
 - 👀 I’m interested to get deeper into the Data Science world and work in that.
-- 🌱 I’m currently doing a Master's degree in Data Science and Big Data. 
+- 🌱 Graduated with a master in Big Data and Data Science. 
 - 💞️ I’m looking to collaborate on a project to start applying my knowledge and growing in this exciting world. 
 - 📫 www.linkedin.com/in/victoriaocabreragreco
 
